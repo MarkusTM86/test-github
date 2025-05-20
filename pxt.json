@@ -3,16 +3,11 @@
   "bitbot": "github:4tronix/BitBot"
 },
 "tutorials": [
-  {
-    "name": "ledartest",
-    "title": "Testare: Ledare eller isolator",
-    "description": "Testa om material leder ström",
-    "path": "tutorials/ledartest/tutorial.md"
-  },
+
   {
     "name": "bitbot-testare",
     "title": "BitBot: Enkla rörelser och avstånd",
     "description": "Lär dig köra och stanna med BitBot och ultraljudssensor",
-    "path": "tutorials/bitbot-testare/tutorial.md"
+    "path": "bitbot-testare.md"
   }
 ]
