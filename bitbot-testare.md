@@ -1,8 +1,5 @@
 # BitBot: Enkla rörelser och avstånd
 
-# package
-bitbot=github:4tronix/BitBot
-
 ## Steg 1: Kör framåt
 
 Vi börjar med att få BitBot att köra rakt fram.
@@ -81,3 +78,7 @@ Nu har du skapat en BitBot som:
 - Kan användas i t.ex. hinderbanor
 
 Vad mer kan du styra med sensorer? Vändning? Ljusstyrka? Tryck?
+
+```package
+bitbot=github:4tronix/BitBot
+```
